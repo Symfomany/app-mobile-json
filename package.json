@@ -1,0 +1,29 @@
+{
+  "name": "api-experiment",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.9.1",
+    "browser-sync": "~2.17.5",
+    "gulp-size": "~2.1.0",
+    "gulp-uncss": "~1.0.6",
+    "gulp-sass": "~2.3.2",
+    "es6-promise": "~4.0.5",
+    "gulp-sourcemaps": "~2.2.0",
+    "gulp-concat": "~2.6.0",
+    "gulp-notify": "~2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wprod/app-mobile-first.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/wprod/app-mobile-first/issues"
+  }
+}
